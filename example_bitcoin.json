@@ -1,0 +1,20 @@
+{
+  "currency": "ANG",
+  "bankid": "BITCOIN",
+  "accountid": 0,
+  "end_balance": 0,
+  "transactions": [
+    {
+      "date": "20231204",
+      "amount": -144.71,
+      "name": "Company X",
+      "memo": "Invoice 2023-0020"
+    },
+    {
+      "date": "20231204",
+      "amount": -2.65,
+      "name": "Bitcoin network",
+      "memo": "Bank Fee"
+    }
+  ]
+}
